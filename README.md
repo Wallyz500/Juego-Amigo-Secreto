@@ -1,6 +1,6 @@
 <h1>Challenge: El Amigo Secreto</h1>
 
-<a>Descripción</a>
+**Descripción**
 
 "El Amigo Secreto" es un minijuego desarrollado en JavaScript que permite asignar nombres a una lista para ser sorteados. El juego permite ingresar una lista de nombres de participantes y, al activarlo, selecciona aleatoriamente un nombre de la lista como el "amigo secreto" asignado.
 
