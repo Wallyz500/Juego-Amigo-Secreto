@@ -30,4 +30,4 @@ Ideal para eventos como juegos en reuniones, este proyecto proporciona una inter
 No es necesario instalar nada, solo abre el archivo `index.html` en cualquier navegador compatible.
 
 
-**¡Diviértete organizando tu sorteo de Amigo Secreto!**
+**¡Diviértete organizando tu sorteo del "Amigo Secreto"!**
