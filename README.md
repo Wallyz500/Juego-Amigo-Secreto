@@ -25,9 +25,9 @@ Ideal para eventos como juegos en reuniones, este proyecto proporciona una inter
 3. El sistema asignará aleatoriamente el "amigo secreto".
 4. Visualiza el resultado con los participantes.
 
-<h5> Instalación y ejecución</h5>
+<h5>Instalación y ejecución</h5>
 
 No es necesario instalar nada, solo abre el archivo `index.html` en cualquier navegador compatible.
 
 
-<p>¡Diviértete organizando tu sorteo de Amigo Secreto!</p>
+**¡Diviértete organizando tu sorteo de Amigo Secreto!**
