@@ -2,7 +2,7 @@
 
 <a>Descripción</a>
 
-"El Amigo Secreto" es un minijuego desarrollado en JavaScript que permite asignar nombres a una lista para ser sorteados, garantizando que nadie se asigne a sí mismo. El juego permite ingresar una lista de nombres de participantes y, al activarlo, selecciona aleatoriamente un nombre de la lista como el "amigo secreto" asignado.
+"El Amigo Secreto" es un minijuego desarrollado en JavaScript que permite asignar nombres a una lista para ser sorteados. El juego permite ingresar una lista de nombres de participantes y, al activarlo, selecciona aleatoriamente un nombre de la lista como el "amigo secreto" asignado.
 
 Ideal para eventos como juegos en reuniones, este proyecto proporciona una interfaz sencilla para ingresar participantes y visualizar el resultado del sorteo.
 
