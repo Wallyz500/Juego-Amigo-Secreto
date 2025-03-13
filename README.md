@@ -12,20 +12,20 @@ Ideal para eventos como juegos en reuniones, este proyecto proporciona una inter
 - Sistema aleatorio para sortear la lista de nombres y seleccionar el "amigo secreto".
 - Compatible con navegadores modernos sin necesidad de instalaciones adicionales.
 
-<p>Tecnologías utilizadas</p>
+<h3>Tecnologías utilizadas</h3>
 
 - `HTML`: Estructura de la aplicación.
 - `CSS`: Estilos y diseño responsivo.
 - `JavaScript`: Lógica del sorteo y manipulación de la interfaz.
 
-<p>Instrucciones de uso</p>
+<h4>Instrucciones de uso</h4>
 
 1. Ingresa los nombres de los participantes en la lista.
 2. Presiona el botón de "Sortear amigo" para iniciar el proceso de selección.
 3. El sistema asignará aleatoriamente el "amigo secreto".
 4. Visualiza el resultado con los participantes.
 
-<p>Instalación y ejecución</p>
+<h5>Instalación y ejecución</h5>
 
 No es necesario instalar nada, solo abre el archivo `index.html` en cualquier navegador compatible.
 
