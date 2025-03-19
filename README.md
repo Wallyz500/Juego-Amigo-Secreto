@@ -25,6 +25,8 @@ Ideal para eventos como juegos en reuniones, este proyecto proporciona una inter
 3. El sistema asignará aleatoriamente el "amigo secreto".
 4. Visualiza el resultado con los participantes.
 
+![alt text](assets/Gif-amigo-ecreto.gif)
+
 ## Instalación y ejecución
 
 No es necesario instalar nada, solo abre el archivo `index.html` en cualquier navegador compatible.
